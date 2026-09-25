@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.dinghaocanyin.cn/sitemap.xml
